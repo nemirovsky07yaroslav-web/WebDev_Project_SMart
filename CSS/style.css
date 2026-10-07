@@ -1,0 +1,86 @@
+
+#Title
+{
+    background-color: rgb(88, 153, 233);
+    text-align: center;
+    font-size: 50px;
+    color: rgb(199, 241, 13);
+    font-family: "Lobster Two", cursive;
+    
+}
+#Subtitle
+{
+    text-align: left;
+    font-size: 30px;
+    color: rgb(255, 0, 21);
+}
+#Description
+{
+    font-size: 16px;
+    color: rgb(167, 47, 185);
+    margin: 20px;
+    text-align: center;
+    font-family: "Inconsolata", sans-serif;
+    background-color: rgb(21, 91, 103);
+}
+button{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    background-color: rgb(233, 141, 88);
+}
+.PopularSeries
+{
+    font-size: 25px;
+    background-color: rgb(83, 133, 225);
+    font-family: "Merriweather Sans", cursive;
+}
+#Summary
+{
+    font-size: 30px;
+    background-color: rgb(98, 30, 118);
+}
+#Subsubtitle
+{
+    font-size: 40px;
+    background-color: rgb(88, 233, 153);
+}
+.Images
+{
+    width: 200px;
+    height: 300px;
+}
+#ClientImage
+{
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    margin: 20px;
+    background-color: violet;
+}
+div
+{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
+.RefLinks
+{
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    background-color: rgb(251, 53, 136);
+}
+#Creator
+{
+    font-size: 25px;
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: rgb(0, 0, 0);
+    font-family: "Oleo Script", cursive;
+}
+hr
+{
+    border: 3px solid rgba(255, 0, 0, 0.404);
+}
