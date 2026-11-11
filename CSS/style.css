@@ -23,12 +23,13 @@
 #Description
 {
     font-size: 16px;
-    color: rgb(167, 47, 185);
+    color: rgb(255, 255, 255);
     margin: 20px;
     text-align: center;
     font-family: "Inconsolata", sans-serif;
     background-color: rgb(21, 91, 103);
 }
+
 button
 {
     font-size: 25px;
@@ -41,7 +42,18 @@ button
     margin: 20px;
     border-radius: 10px;
     border: 3px solid black;
+    cursor: pointer;
 }
+
+a
+{
+    text-decoration: none;
+    width: 100px;
+    height: 50px;
+    padding: 5px;
+    margin: 20px;
+}
+
 .PopularSeries
 {
     font-size: 25px;
